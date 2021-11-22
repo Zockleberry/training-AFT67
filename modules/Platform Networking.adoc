@@ -70,6 +70,11 @@ A paragraph or two describing when this topic becomes important in the Data in M
 
 https://docs.confluent.io/operator/current/co-networking-overview.html
 
+image::large cluster.png[align="center",pdfwidth=75%]
+
+image::clustplat2.png[align="center",pdfwidth=75%]
+
+image::platnet3.png[align="center",pdfwidth=75%]
 
 
 ---
