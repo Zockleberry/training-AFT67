@@ -5,7 +5,7 @@
 
 
 
-= Concept That You're Covering (e.g. "How to Carry Technical Information")
+= Platform Networking
 
 
 {sp} +
@@ -66,9 +66,11 @@ A paragraph or two describing when this topic becomes important in the Data in M
 
 ---
 
-== Concept (e.g. Carrying Technical Information)
+== Platform Networking Cheat Sheet
 
-This is where the instruction on the topic will go. The idea is to keep the training to be around 10 minutes or so. Keep your learner role(s) in mind and also where they are in the AF so that you can make assumptions about what they already know and meet them where they're at.
+https://docs.confluent.io/operator/current/co-networking-overview.html
+
+
 
 ---
 
