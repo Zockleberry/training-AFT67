@@ -32,64 +32,69 @@ image::learning-objectives.svg[pdfwidth=90%]
 |
 By completing this module, you will be able to:
 
-* objective
-* objective
-* objective
+* Ensure the Confluent cluster and components have the necessary network bandwidth
+
+* Restrict communications from outside networks from reaching your platform
 
 |===
 
-**** Note to CDev: Not all concepts will need all of the following headers. Please use what's appropriate and remove the rest. Please incorporate images as much as possible. You can and should adapt this template to accommodate the concept. Please work with the guidance from the SME and work through all the important points. The follow sections are suggestions to help keep the training consistent between both the individual modules and the Adopting Confluent book.
+Before you begin, you should have a good understanding of 
 
-Before you begin, you should have a good understanding of XYZ. If you're not yet familiar with that topic, please see ABC.
+* AFT28 
 
-== What problem does it solve?
-
-What is the “big picture” here? What are the use cases? Why are we doing this? Why is this relevant? Should be informed/aligned with https://docs.google.com/spreadsheets/d/1rLFQDGta9qb2ri5fRQhK9WJemoQ0x1SLfGPzRqBhamo/edit#gid=0[company messaging].
+If you're not yet familiar with that topic, please see the section of the Adopting Confluent handbook.
 
 ---
 
 == Why is it important?
 
-Describing why this topic is important to success with Data in Motion.   
-
+A proper platform networking design allows your organization to meet it's networking needs before it's deployed.
 ---
 
 == Who does this involve?
 
-A brief paragraph or two explaining who (personas) cares about this topic and what their interaction with it is. 
+Operations owner
 
----
+Infrastructure engineer
 
-== When does it matter?
+Platform owner
 
-A paragraph or two describing when this topic becomes important in the Data in Motion journey and what other topics it builds upon. 
+Enterprise architect
 
+Platform engineer
+
+Engineering manager
+
+Solution architect
+
+Application architect
+
+Application engineer
 ---
 
 == Platform Networking Cheat Sheet
 
-https://docs.confluent.io/operator/current/co-networking-overview.html
 
 image::large cluster.png[align="center",pdfwidth=75%]
 
 image::clustplat2.png[align="center",pdfwidth=75%]
 
-image::platnet3.png[align="center",pdfwidth=75%]
-
-
----
-
-== Challenge your understanding
-
-This is the place to try to challenge the learner with thought exercises, actual exercises, or challenges that help to reinforce the instruction.
+image::Confluent_Cloud_Networking_Options_Cheat_Sheet_-_Google_Slides.png[align="center",pdfwidth=75%]
 
 ---
 
 == Additional resources
 
-Please list additional resources, including white papers, blogs, podcasts, etc.
+Platform Ops Guide https://support.confluent.io/hc/en-us/articles/115006506647-Confluent-Platform-Ops-Checklist#Business 
+
+Platform Reference Whitepaper https://www.confluent.io/resources/apache-kafka-confluent-enterprise-reference-architecture/
+
+https://docs.confluent.io/cloud/current/networking/index.html
+
+https://docs.confluent.io/operator/current/co-networking-overview.html
 
 == Internal resources
+https://docs.google.com/presentation/d/1ahcmdD85ZJJR5tvuR79dZ_WzCelphT9iBLw9ZQu6qTI/edit?usp=sharing
 
 [.text-center]
 Copyright © Confluent, Inc. 2014-2021. https://www.confluent.io/confluent-privacy-statement/[Privacy Policy] | https://www.confluent.io/terms-of-use/[Terms & Conditions]. +
