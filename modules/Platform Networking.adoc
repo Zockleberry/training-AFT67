@@ -49,27 +49,27 @@ If you're not yet familiar with that topic, please see the section of the Adopti
 == Why is it important?
 
 A proper platform networking design allows your organization to meet it's networking needs before it's deployed.
----
 
 == Who does this involve?
 
-Operations owner
+* Operations owner
 
-Infrastructure engineer
+* Infrastructure engineer
 
-Platform owner
+* Platform owner
 
-Enterprise architect
+* Enterprise architect
 
-Platform engineer
+* Platform engineer
 
-Engineering manager
+* Engineering manager
 
-Solution architect
+* Solution architect
 
-Application architect
+* Application architect
 
-Application engineer
+* Application engineer
+
 ---
 
 == Platform Networking Cheat Sheet
