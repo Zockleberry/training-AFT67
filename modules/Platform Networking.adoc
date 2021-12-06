@@ -80,6 +80,10 @@ image::large cluster.png[align="center",pdfwidth=75%]
 
 image::clustplat2.png[align="center",pdfwidth=75%]
 
+image::portinfo.png[align="center",pdfwidth=75%]
+
+image::portinfo2.png[align="center",pdfwidth=75%]
+
 image::Confluent_Cloud_Networking_Options_Cheat_Sheet_-_Google_Slides.png[align="center",pdfwidth=75%]
 
 ---
