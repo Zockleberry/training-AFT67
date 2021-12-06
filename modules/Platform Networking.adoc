@@ -73,6 +73,7 @@ A proper platform networking design allows your organization to meet it's networ
 ---
 
 == Platform Networking Cheat Sheet
+image::PLATNET2.png[align="center",pdfwidth=75%]
 
 
 image::large cluster.png[align="center",pdfwidth=75%]
